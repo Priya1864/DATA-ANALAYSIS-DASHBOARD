@@ -1,5 +1,7 @@
-Vrinda Store Sales Analysis (2022–2025)
+**Vrinda Store Sales Analysis** (2022–2025)
+
 Objective:
+
 Analyze Vrinda Store’s 2022 sales data to understand customer demographics, sales trends, regional performance, and operational efficiency, and use insights to guide business strategies for 2023–2025.
 
 Tools Used:
