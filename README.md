@@ -29,3 +29,8 @@ Focus marketing on adult women and run sales promotions during slower months. Ad
 
 What the Store Did Next (2023–2025):
 In 2023, they focused on women and key states with discounts and better tracking. In 2024, they expanded to new places and personalized offers. By 2025, they started loyalty programs and improved customer service with new tools.
+
+
+DASHBOARD
+
+<a href="https://github.com/Priya1864/DATA-ANALAYSIS-DASHBOARD/blob/main/vrinda%20store%20analysis.png">"DASHBOARD"</a>
