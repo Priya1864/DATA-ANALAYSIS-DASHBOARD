@@ -10,20 +10,31 @@ Data used:
 
 <a href="https://github.com/Priya1864/DATA-ANALAYSIS-DASHBOARD/blob/main/Vrinda%20Store%20Data%20Analysis.csv">"DATASET"</a>
 
-Key Insights:
-Sales peaked in March-April; declined afterward.
+Insights:
 
-Women, especially adults, are the main buyers (64%).
+Sales are highest in March and April, then decline through the year.
 
-Maharashtra, Karnataka, and Uttar Pradesh are top revenue states.
+Women, especially adults, make up 64% of buyers.
 
-Amazon leads as the primary sales channel.
+Maharashtra, Karnataka, and Uttar Pradesh generate the most revenue.
 
-92% of orders delivered successfully; low return/cancellation rates.
+Amazon is the leading sales platform, followed by Myntra and Flipkart.
+
+92% of orders are successfully delivered with low return rates.
+
+Some platforms like Ajio and Nalli have much lower sales.
 
 Conclusions:
-Adult women drive sales, with strong regional and channel performance. Seasonal drops highlight opportunities to improve engagement during slower months.
 
+The store’s main customer base is adult women, so marketing should focus on them.
+
+Seasonal sales dips suggest a need for targeted campaigns in slower months.
+
+Strong-performing states and platforms should be prioritized to maximize revenue.
+
+There is opportunity to grow by improving sales on less-used platforms and expanding product lines to teens and seniors.
+
+Maintaining high delivery success rates is crucial for customer satisfaction and retention.
 Recommendations:
 Focus marketing on adult women and run sales promotions during slower months. Add products for teens and seniors. Work on improving sales on smaller platforms like Ajio. Also, look into growing in new areas.
 
