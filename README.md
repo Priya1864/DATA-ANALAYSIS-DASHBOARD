@@ -46,4 +46,4 @@ In 2023, they focused on women and key states with discounts and better tracking
 
 DASHBOARD
 
-<a href="https://github.com/Priya1864/DATA-ANALAYSIS-DASHBOARD/blob/main/vrinda%20store%20analysis.png">"DASHBOARD"</a>
+<a href="https://github.com/Priya1864/DATA-ANALAYSIS-DASHBOARD/blob/main/VRINDA%20STORE%20ANALYSIS.png">"DASHBOARD"</a>
