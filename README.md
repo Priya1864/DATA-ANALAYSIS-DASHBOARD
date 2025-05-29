@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/273e3eeb-6107-40a7-bb1f-6a661061c517)
+
 # **Vrinda Store Sales Analysis** (2022–2025)
 
 # Objective:
